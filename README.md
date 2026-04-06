@@ -9,7 +9,7 @@ I’ve always loved the look of wire wrap and the backplanes of older vintage co
 <img width="1553" height="793" alt="Screenshot 2026-04-06 at 8 51 30 AM" src="https://github.com/user-attachments/assets/f8106eed-6532-4de0-923e-8a9094c1a942" />
 <img width="1272" height="608" alt="Screenshot 2026-04-06 at 8 51 48 AM" src="https://github.com/user-attachments/assets/cfc8d793-f1bb-4fc9-9660-dec0bd725dcd" />
 <img width="1551" height="809" alt="Screenshot 2026-04-06 at 8 52 13 AM" src="https://github.com/user-attachments/assets/5fd92536-3cd5-4b16-a2f7-57888827b688" />
-Notes: Figured I'd say that this revision had had quite a few issues. especially with the scale of wire wrapping done. First was some missing connections (expected). The other was the slot connector. Using pin headers to 'jump' between the slot and the card was really finicky. Lastly, intermittent issues with the card itself, which to this day, I haven't been able to diagnose. 
+-Figured I'd say that this revision had had quite a few issues. especially with the scale of wire wrapping done. First was some missing connections (expected). The other was the slot connector. Using pin headers to 'jump' between the slot and the card was really finicky. Lastly, intermittent issues with the card itself, which to this day, I haven't been able to diagnose. 
 # Revision 1: Gerber baby
 Took about a week to get the Schematics into KiCad. Overall, straightforward but I haven't used KiCad before so it was definitely the learning curve that took the longest. 
 <img width="1024" height="633" alt="Screenshot 2026-04-06 at 9 16 05 AM" src="https://github.com/user-attachments/assets/8c7db44b-1d58-4a6d-9982-8a8344e2c91d" />
