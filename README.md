@@ -1,4 +1,4 @@
-# ReProFile
+# ReProFile ///
 A ProFile interface for the Apple /// rebuilt from scratch.
 # Introduction
 About a month ago, I had my heart set on completing my Apple /// setup and getting the ridiculously expensive ProFile Hard Disk. The listings around the web seemed to get more expensive as I searched. But I decided to wait and see if one became available for the price I had decided I would spend. lo and behold, on appeared and I grabbed it as quickly as it went up. ProFile aquired, now for the interface card. Unfortunately, my Apple /// did not come with an interface card so I had to search for that as well. What's even worse than the ProFile's prices are the interface cards. They're about the same and sometimes even more than the drive. I found one I placed a bid on and hoped. No dice. With no interface card, no ProFile. After searching around, I noticed that the card itself seemed rather simple. Mostly 74LS chips with some resistor packs. I thought to myself "why not at least try to make one?" So that's what I did. 
